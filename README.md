@@ -11,9 +11,6 @@ In this assignment, you will build an interactive dashboard to explore the Belly
 # Utilizing the Dashboard
 ## Test Subject ID Number is a dropdown selector for a specific Subject ID. Upon selection the static Demographic Info text box will autopopulate to show the ID number that was selected from the drop down, along with the Ethnicity, Gender, Age, Location, BBType and WFREQ. The horizontal bar graph will feature the TOP 10 Bacteria Cultures Found and the bubble chart below this will show the Bacteria Cultures per Sample. 
 
-![Screenshot of dropdown selector and the text box for demographic info.](/Users/savirahiman/Desktop/Git_Hub_Repo/belly-button-challenge/Image/dropdownselector-demo info.png)
-![Screenshot of bargraph.](![/Users/savirahiman/Desktop/Git_Hub_Repo/belly-button-challenge/Image/dropdownselector-demo info.png][def])
-![Screenshot of bubblegraph.][def]
-
-[def]: Image/bubblechart.png
-
+[dropdown selector]: <Image/dropdownselector-demo info.png>
+[bubblechart]: Image/bubblechart.png
+[barchart]: Image/barchart.png
